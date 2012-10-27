@@ -1,9 +1,2 @@
-NOTES
-=====
-
-Private my notes and ideas.
-
-s..t: 7%qi8%ba9%jiu
-p......d: %wen%forG
-
-filter: *.secure
+U2FsdGVkX193iJkAAAAAAJsiU0wBwmRqEKnNvbQLCDTVm233gKkk5lWJ5+hK7zux
+4Ribf68Bz08scFB3i+zTWg==
